@@ -1,0 +1,31 @@
+
+
+body{
+    font-family: 'DM Sans', sans-serif;
+    background-position: center;
+    margin:100px;
+    padding-right: 30px;
+}
+
+h3{
+    color: blue;
+}
+   
+img{
+    width: 170px;
+    height: 190px;
+    border-radius: 50px;
+}
+.tag{
+    text-align: center;
+}
+.axe{
+    text-align: left;
+}
+#alpha{
+    float: right;
+    text-align: lef;
+}
+
+
+   
